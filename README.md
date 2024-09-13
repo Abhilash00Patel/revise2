@@ -1,3 +1,3 @@
 # hi
 
-it's a local repo
+it's a local repository
